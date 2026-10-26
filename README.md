@@ -36,7 +36,7 @@ The bundled data combine six coauthor-provided corrected simulations and 24 unaf
 
 The saved simulations used **1,000,000 Monte Carlo trials per initial damage case**. For each remaining system composition, a case specifies the numbers of initially broken brittle components and yielded ductile components. The revised figures retain uncensored estimates and calculate missing tail probabilities deterministically; homogeneous brittle cases are also evaluated analytically. To generate a new simulation dataset, use `'TrialsPerStratum',1000000` with the paper's system definition. This matches the original sample size but does not guarantee precision for every rare outcome. New simulations retain raw counts and can differ because of random sampling.
 
-[Data notes](data/README.md) explain the inputs, filenames and available simulation information. A Zenodo archive is planned for the publication code and datasets; its DOI will be added when available.
+[Data notes](data/README.md) explain the inputs, filenames and available simulation information. Version 1.0.0 of the publication code, datasets and figures is archived on [Zenodo](https://doi.org/10.5281/zenodo.23657006).
 
 ## Scientific ideas
 
