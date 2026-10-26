@@ -6,6 +6,8 @@ This repository is the authoritative MATLAB implementation accompanying [**Quant
 
 The calculations have two independent layers: a parameterized Daniels system supplies physical response probabilities; the VoIR calculation uses those probabilities to evaluate adversarial knowledge, attack choices and robustness.
 
+[![Graphical abstract connecting the Daniels system and adversarial knowledge to attack selection, robustness and VoIR](docs/figures/graphical_abstract/voir_graphical_abstract.png)](docs/figures/graphical_abstract/voir_graphical_abstract.pdf)
+
 **Current numerical revision:** intact and attacked systems use the same prescribed loading condition, every initial damage outcome is included, and the $\pi$ limit applies only when plotting. Probabilities lost to the original cap are evaluated by deterministic integration of the same Gaussian model. The pipeline also evaluates the one- and two-component systems analytically, extending Figure 6 to attack sizes $r=1,\ldots,9$. The included figure set uses this extended calculation.
 
 ## Start here

@@ -6,6 +6,8 @@ The numerical figures accompanying the [paper](https://doi.org/10.1016/j.strusaf
 
 Use the individual files for the manuscript's LaTeX subfigure environments. Captions and subfigure letters are supplied by LaTeX, rather than embedded in these panel files. PDF and SVG are vector formats; PNG files provide quick previews.
 
+The [graphical abstract](graphical_abstract/voir_graphical_abstract.pdf) provides an overview of the system, framework and selected results. Its [PNG image](graphical_abstract/voir_graphical_abstract.png) and [editable source](graphical_abstract/README.md) are also included.
+
 ## Individual figures and panels
 
 | Figure | PDF | SVG | PNG |
