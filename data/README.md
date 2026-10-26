@@ -41,4 +41,4 @@ The first three received names describe the remaining composition. Files were ma
 
 New simulations retain labelled integer `records`, physical parameters and stream identities. Exporting through `reproduce_publication('SimulationData',data)` writes these records to new MAT files and reloads them through the same calculation. The definition is recorded as `load-all-damage-v1`; annual summary values remain separate.
 
-`batlow10.mat` supplies the publication palette; see the [third-party notice](../THIRD_PARTY_NOTICES.md). A matching code and data release will be archived on Zenodo, with its DOI added when available.
+`batlow10.mat` supplies the publication palette; see the [third-party notice](../THIRD_PARTY_NOTICES.md). These data are included with the publication code and figures in the [version 1.0.0 Zenodo archive](https://doi.org/10.5281/zenodo.23657006).
