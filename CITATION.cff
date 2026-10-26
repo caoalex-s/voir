@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this software."
+type: software
+version: 1.0.0
+date-released: 2026-10-26
+repository-code: "https://github.com/caoalex-s/voir"
+title: "VoIR: adversarial knowledge and system robustness"
+authors:
+  - family-names: Cao
+    given-names: Alex Sixie
+  - family-names: Iannacone
+    given-names: Leandro
+license: MIT
+preferred-citation:
+  type: article
+  title: "Quantifying the influence of adversarial knowledge on the robustness of systems under attack"
+  authors:
+    - family-names: Cao
+      given-names: Alex Sixie
+    - family-names: Iannacone
+      given-names: Leandro
+  journal: Structural Safety
+  start: "102773"
+  year: 2026
+  doi: 10.1016/j.strusafe.2026.102773
+  notes: "The authors contributed equally."
+
+references:
+  - type: article
+    title: "On the quantification of robustness and its thresholds"
+    authors:
+      - family-names: Cao
+        given-names: Alex Sixie
+      - family-names: Beck
+        given-names: André T.
+    journal: Structural Safety
+    volume: "120"
+    start: "102688"
+    year: 2026
+    doi: 10.1016/j.strusafe.2026.102688

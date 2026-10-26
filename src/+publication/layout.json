@@ -1,0 +1,627 @@
+{
+  "source_paper_sha256": "7799f1dbe0f3bafc907d5c1e748aad99f1122a02fd165ac60a72a2028d067661",
+  "author_decision": "2026-10-05: match stricter 0.5% normalized axes-framing tolerance",
+  "units": "PDF points; MATLAB axes inner position; [left,bottom,width,height]",
+  "source": "Extracted vector axes and embedded-form bounds; composite placement and caption baselines from manuscript PDF. No source drawing or data replaced.",
+  "export_api_reference": "https://www.mathworks.com/help/matlab/ref/exportgraphics.html",
+  "panels": [
+    {
+      "figure": 1,
+      "panel": "single",
+      "stem": "figure01",
+      "paper_page": 9,
+      "paper_form_resource": "/Im1",
+      "canvas_points": [
+        318.0,
+        250.0
+      ],
+      "axes_points": [
+        36.02705001875,
+        31.140625,
+        279.0,
+        215.0
+      ]
+    },
+    {
+      "figure": 3,
+      "panel": "single",
+      "stem": "figure03",
+      "paper_page": 15,
+      "paper_form_resource": "/Im5",
+      "canvas_points": [
+        319.0,
+        250.0
+      ],
+      "axes_points": [
+        36.32392501875,
+        31.296875,
+        279.0,
+        215.0
+      ]
+    },
+    {
+      "figure": 4,
+      "panel": "a",
+      "stem": "figure04a",
+      "paper_page": 17,
+      "paper_form_resource": "/Im6",
+      "canvas_points": [
+        319.0,
+        250.0
+      ],
+      "axes_points": [
+        36.32392501875,
+        31.296875,
+        279.0,
+        215.0
+      ]
+    },
+    {
+      "figure": 4,
+      "panel": "b",
+      "stem": "figure04b",
+      "paper_page": 17,
+      "paper_form_resource": "/Im7",
+      "canvas_points": [
+        319.0,
+        250.0
+      ],
+      "axes_points": [
+        36.32392387375,
+        31.74687652624999,
+        279.0,
+        214.79999999999998
+      ]
+    },
+    {
+      "figure": 4,
+      "panel": "c",
+      "stem": "figure04c",
+      "paper_page": 17,
+      "paper_form_resource": "/Im8",
+      "canvas_points": [
+        319.0,
+        250.0
+      ],
+      "axes_points": [
+        36.32392387375,
+        31.74687652624999,
+        279.0,
+        214.79999999999998
+      ]
+    },
+    {
+      "figure": 4,
+      "panel": "d",
+      "stem": "figure04d",
+      "paper_page": 17,
+      "paper_form_resource": "/Im9",
+      "canvas_points": [
+        319.0,
+        250.0
+      ],
+      "axes_points": [
+        36.32392387375,
+        31.74687652624999,
+        279.0,
+        214.79999999999998
+      ]
+    },
+    {
+      "figure": 5,
+      "panel": "a",
+      "stem": "figure05a",
+      "paper_page": 19,
+      "paper_form_resource": "/Im10",
+      "canvas_points": [
+        313.0,
+        253.0
+      ],
+      "axes_points": [
+        32.460035282999996,
+        27.250000190500003,
+        278.999982981,
+        220.4999997795
+      ]
+    },
+    {
+      "figure": 5,
+      "panel": "b",
+      "stem": "figure05b",
+      "paper_page": 19,
+      "paper_form_resource": "/Im11",
+      "canvas_points": [
+        313.0,
+        253.0
+      ],
+      "axes_points": [
+        32.460035282999996,
+        27.250000190500003,
+        278.999982981,
+        220.4999997795
+      ]
+    },
+    {
+      "figure": 5,
+      "panel": "c",
+      "stem": "figure05c",
+      "paper_page": 19,
+      "paper_form_resource": "/Im12",
+      "canvas_points": [
+        313.0,
+        253.0
+      ],
+      "axes_points": [
+        32.460035282999996,
+        27.250000190500003,
+        278.999982981,
+        220.4999997795
+      ]
+    },
+    {
+      "figure": 5,
+      "panel": "d",
+      "stem": "figure05d",
+      "paper_page": 19,
+      "paper_form_resource": "/Im13",
+      "canvas_points": [
+        313.0,
+        253.0
+      ],
+      "axes_points": [
+        32.460035282999996,
+        27.250000190500003,
+        278.999982981,
+        220.4999997795
+      ]
+    },
+    {
+      "figure": 6,
+      "panel": "single",
+      "stem": "figure06",
+      "paper_page": 20,
+      "paper_form_resource": "/Im14",
+      "canvas_points": [
+        322.0,
+        253.0
+      ],
+      "axes_points": [
+        38.152047708,
+        31.500000210999985,
+        278.999982981,
+        215.99999978399998
+      ]
+    },
+    {
+      "figure": 7,
+      "panel": "a",
+      "stem": "figure07a",
+      "paper_page": 21,
+      "paper_form_resource": "/Im15",
+      "canvas_points": [
+        321.0,
+        253.0
+      ],
+      "axes_points": [
+        37.652047758,
+        31.500000210999985,
+        278.9999829810001,
+        215.99999978399998
+      ]
+    },
+    {
+      "figure": 7,
+      "panel": "b",
+      "stem": "figure07b",
+      "paper_page": 21,
+      "paper_form_resource": "/Im16",
+      "canvas_points": [
+        321.0,
+        253.0
+      ],
+      "axes_points": [
+        37.652047758,
+        31.500000210999985,
+        278.9999829810001,
+        215.99999978399998
+      ]
+    },
+    {
+      "figure": 7,
+      "panel": "c",
+      "stem": "figure07c",
+      "paper_page": 21,
+      "paper_form_resource": "/Im17",
+      "canvas_points": [
+        321.0,
+        253.0
+      ],
+      "axes_points": [
+        37.652047758,
+        31.500000210999985,
+        278.9999829810001,
+        215.99999978399998
+      ]
+    },
+    {
+      "figure": 7,
+      "panel": "d",
+      "stem": "figure07d",
+      "paper_page": 21,
+      "paper_form_resource": "/Im18",
+      "canvas_points": [
+        321.0,
+        253.0
+      ],
+      "axes_points": [
+        37.652047758,
+        31.500000210999985,
+        278.9999829810001,
+        215.99999978399998
+      ]
+    }
+  ],
+  "composites": [
+    {
+      "figure": 4,
+      "paper_page": 17,
+      "paper_scale": 0.7,
+      "paper_frame_points": [
+        69.426,
+        333.46286000000003,
+        525.851,
+        730.784
+      ],
+      "canvas_points": [
+        652.0357142857143,
+        567.6016285714286
+      ],
+      "axes_points": [
+        [
+          36.323925018749996,
+          348.8985035714285,
+          279.0,
+          215.0
+        ],
+        [
+          369.35963815946434,
+          349.3485050976786,
+          279.0,
+          214.79999999999998
+        ],
+        [
+          36.323923873750005,
+          55.2299336691071,
+          279.0,
+          214.79999999999998
+        ],
+        [
+          369.35963815946434,
+          55.2299336691071,
+          279.0,
+          214.79999999999998
+        ]
+      ],
+      "captions": [
+        {
+          "center_x": 159.5,
+          "baseline_y": 297.1073428571428,
+          "font_size": 9.96257142857143,
+          "width": 319.00000000000006
+        },
+        {
+          "center_x": 492.5357142857144,
+          "baseline_y": 297.1073428571428,
+          "font_size": 9.96257142857143,
+          "width": 319.00000000000006
+        },
+        {
+          "center_x": 159.5,
+          "baseline_y": 2.988771428571389,
+          "font_size": 9.96257142857143,
+          "width": 319.00000000000006
+        },
+        {
+          "center_x": 492.5357142857144,
+          "baseline_y": 2.988771428571389,
+          "font_size": 9.96257142857143,
+          "width": 319.00000000000006
+        }
+      ]
+    },
+    {
+      "figure": 5,
+      "paper_page": 19,
+      "paper_scale": 0.65,
+      "paper_frame_points": [
+        79.351,
+        354.56486,
+        515.927,
+        730.7850000000001
+      ],
+      "canvas_points": [
+        671.6553846153846,
+        578.8002153846155
+      ],
+      "axes_points": [
+        [
+          32.460035282999996,
+          353.0502155751153,
+          278.999982981,
+          220.49999977949997
+        ],
+        [
+          391.1154198983845,
+          353.0502155751153,
+          278.999982981,
+          220.49999977949997
+        ],
+        [
+          32.460035282999996,
+          52.53944634434613,
+          278.999982981,
+          220.49999977949997
+        ],
+        [
+          391.1154198983845,
+          52.53944634434613,
+          278.999982981,
+          220.49999977949997
+        ]
+      ],
+      "captions": [
+        {
+          "center_x": 156.50000000000003,
+          "baseline_y": 303.7294461538462,
+          "font_size": 10.728923076923076,
+          "width": 313.00000000000006
+        },
+        {
+          "center_x": 515.1553846153846,
+          "baseline_y": 303.7294461538462,
+          "font_size": 10.728923076923076,
+          "width": 313.00000000000006
+        },
+        {
+          "center_x": 156.50000000000003,
+          "baseline_y": 3.21867692307688,
+          "font_size": 10.728923076923076,
+          "width": 313.00000000000006
+        },
+        {
+          "center_x": 515.1553846153846,
+          "baseline_y": 3.21867692307688,
+          "font_size": 10.728923076923076,
+          "width": 313.00000000000006
+        }
+      ]
+    },
+    {
+      "figure": 7,
+      "paper_page": 21,
+      "paper_scale": 0.65,
+      "paper_frame_points": [
+        76.751,
+        354.56486,
+        518.527,
+        730.7850000000001
+      ],
+      "canvas_points": [
+        679.6553846153847,
+        578.8002153846155
+      ],
+      "axes_points": [
+        [
+          37.652047757999995,
+          357.30021559561544,
+          278.9999829810001,
+          215.99999978399998
+        ],
+        [
+          396.3074323733846,
+          357.30021559561544,
+          278.9999829810001,
+          215.99999978399998
+        ],
+        [
+          37.652047757999995,
+          56.78944636484612,
+          278.9999829810001,
+          215.99999978399998
+        ],
+        [
+          396.3074323733846,
+          56.78944636484612,
+          278.9999829810001,
+          215.99999978399998
+        ]
+      ],
+      "captions": [
+        {
+          "center_x": 160.50000000000003,
+          "baseline_y": 303.7294461538462,
+          "font_size": 10.728923076923076,
+          "width": 321.0
+        },
+        {
+          "center_x": 519.1553846153846,
+          "baseline_y": 303.7294461538462,
+          "font_size": 10.728923076923076,
+          "width": 321.00000000000006
+        },
+        {
+          "center_x": 160.50000000000003,
+          "baseline_y": 3.21867692307688,
+          "font_size": 10.728923076923076,
+          "width": 321.0
+        },
+        {
+          "center_x": 519.1553846153846,
+          "baseline_y": 3.21867692307688,
+          "font_size": 10.728923076923076,
+          "width": 321.00000000000006
+        }
+      ]
+    }
+  ],
+  "legends": [
+    {
+      "attack_count": 0,
+      "stem": "figure03",
+      "paper_page": 15,
+      "paper_form_resource": "/Im5",
+      "box_relative_to_axes_points": [
+        147.0,
+        179.5,
+        124.0,
+        27.5
+      ],
+      "row_centers_points": [
+        19.965751650000016,
+        7.534248352500015
+      ],
+      "token_x_points": [
+        3.004211424999994,
+        33.04626465000001
+      ],
+      "label_x_points": 35.29942321749999,
+      "text_baseline_offset_points": 2.3999635,
+      "font_size": 10,
+      "measurement": "Source vector legend border, line tokens and glyph baselines; relative to source inner axes and legend box."
+    },
+    {
+      "attack_count": 1,
+      "stem": "figure04a",
+      "paper_page": 17,
+      "paper_form_resource": "/Im6",
+      "box_relative_to_axes_points": [
+        147.0,
+        130.0,
+        124.0,
+        77.0
+      ],
+      "row_centers_points": [
+        69.487804415,
+        57.09268188499999,
+        44.69755935499998,
+        32.30243682499997,
+        19.907314294999964,
+        7.512191764999955
+      ],
+      "token_x_points": [
+        3.004211424999994,
+        33.04626465000001
+      ],
+      "label_x_points": 35.29942321749999,
+      "text_baseline_offset_points": 2.3999635000000126,
+      "font_size": 10,
+      "measurement": "Source vector legend border, line tokens and glyph baselines; relative to source inner axes and legend box."
+    },
+    {
+      "attack_count": 2,
+      "stem": "figure04b",
+      "paper_page": 17,
+      "paper_form_resource": "/Im7",
+      "box_relative_to_axes_points": [
+        146.99999999999997,
+        130.2,
+        124.20000000000002,
+        76.80000000000001
+      ],
+      "row_centers_points": [
+        69.30731735399999,
+        56.944390871999985,
+        44.58146438999998,
+        32.21853790799997,
+        19.855611425999967,
+        7.492684943999961
+      ],
+      "token_x_points": [
+        3.00904540800002,
+        33.09957275400001
+      ],
+      "label_x_points": 35.35636596750001,
+      "text_baseline_offset_points": 2.3999634032499557,
+      "font_size": 10,
+      "measurement": "Source vector legend border, line tokens and glyph baselines; relative to source inner axes and legend box."
+    },
+    {
+      "attack_count": 3,
+      "stem": "figure04c",
+      "paper_page": 17,
+      "paper_form_resource": "/Im8",
+      "box_relative_to_axes_points": [
+        139.2,
+        130.2,
+        132.0,
+        76.80000000000001
+      ],
+      "row_centers_points": [
+        69.30731735399999,
+        56.944390871999985,
+        44.58146438999998,
+        32.21853790799997,
+        19.855611425999967,
+        7.492684943999961
+      ],
+      "token_x_points": [
+        3.0090271020000046,
+        33.09924316199999
+      ],
+      "label_x_points": 35.356018066250016,
+      "text_baseline_offset_points": 2.3999634032499557,
+      "font_size": 10,
+      "measurement": "Source vector legend border, line tokens and glyph baselines; relative to source inner axes and legend box."
+    },
+    {
+      "attack_count": 4,
+      "stem": "figure04d",
+      "paper_page": 17,
+      "paper_form_resource": "/Im9",
+      "box_relative_to_axes_points": [
+        139.2,
+        130.2,
+        132.0,
+        76.80000000000001
+      ],
+      "row_centers_points": [
+        69.30731735399999,
+        56.944390871999985,
+        44.58146438999998,
+        32.21853790799997,
+        19.855611425999967,
+        7.492684943999961
+      ],
+      "token_x_points": [
+        3.0090271020000046,
+        33.09924316199999
+      ],
+      "label_x_points": 35.356018066250016,
+      "text_baseline_offset_points": 2.3999634032499557,
+      "font_size": 10,
+      "measurement": "Source vector legend border, line tokens and glyph baselines; relative to source inner axes and legend box."
+    }
+  ],
+  "presentation_revision": "08_caption_subscript_placement",
+  "caption_font_choice": {
+    "date": "2026-10-05",
+    "author_approved": true,
+    "font_name": "Times New Roman",
+    "interpreter": "tex",
+    "source_font_family": "NimbusRomNo9L with manuscript math fonts",
+    "exact_font_family_match_claimed": false,
+    "additional_font_installation_required": false,
+    "figure7_subscript_placement": "Explicit fragment placement; Times regular/italic with Unicode kappa and equivalence, preserving source body baselines."
+  },
+  "caption_glyph_style": {
+    "source_paper_page": 21,
+    "source_body_font_size_points": 6.9738,
+    "source_subscript_font_size_points": 4.9813,
+    "source_body_baseline_points": 356.657,
+    "source_subscript_baseline_points": 355.61,
+    "subscript_size_ratio": 0.714287762769222,
+    "subscript_descent_ratio": 0.1501333562763486,
+    "fully_informed_relation_codepoint": 8801,
+    "method": "Measured caption font sizes and baselines from supplied manuscript PDF. Unicode kappa/equivalence and manually placed subscripts use approved installed Times fonts; exact manuscript math-font identity is not claimed."
+  }
+}
